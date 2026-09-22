@@ -6,5 +6,10 @@
   "about": {
     "title": "Sobre Nosotros",
     "content": "Somos una empresa líder en nuestra industria."
+  },
+  "page-not-found": {
+    "title": "Página No Encontrada",
+    "content": "Lo sentimos, la página que buscas no existe.",
+    "go-home": "Ir a Inicio"
   }
 }
