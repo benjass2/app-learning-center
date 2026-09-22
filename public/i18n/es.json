@@ -2,5 +2,9 @@
   "home": {
     "title": "Bienvenido",
     "content": "Bienvenidoo a ACME."
+  },
+  "about": {
+    "title": "Sobre Nosotros",
+    "content": "Somos una empresa líder en nuestra industria."
   }
 }
